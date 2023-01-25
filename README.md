@@ -23,4 +23,5 @@
   <li>🎹 Music Production</li>
   <li>💿 DJ'ing & Mixing</li>
   <li>⚽ Football</li>
+  <li>🎾 Tennis</li>
 </ul>
