@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I'm a Junior Full-Stack Developer looking for my first opportunity in tech!👨‍💻</h3>
+<h1 align="left">Hi 👋, I'm Alex</h1>
+<h3 align="left">I'm a Junior Full-Stack Developer looking for my first opportunity in tech!👨‍💻</h3>
 
-<p align="center"> Having previously worked in sales & recruitment, I decided it was time for a career change. I am seeking a role in tech where I can apply my communication and problem solving skills. I have recently completed a full time 16-week intensive Bootcamp at the School of Code. Whilst studying, I have created a portfolio of both team and solo based projects.</p>
+<p align="left"> Having previously worked in sales & recruitment, I decided it was time for a career change. I am seeking a role in tech where I can apply my communication and problem solving skills. I have recently completed a full time 16-week intensive Bootcamp at the School of Code. Whilst studying, I have created a portfolio of both team and solo based projects.</p>
 
 
 - 🔭 I’m currently working on **a 4-week final project as a part of my 16-week bootcamp.**
