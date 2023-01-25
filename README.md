@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📫 Drop me an email at **ajcoding796@gmail.com**
+- 📫 Drop me an email to **ajcoding796@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
