@@ -6,7 +6,7 @@
 <ul>
   <li>🌍 I'm based in West Yorkshire, Huddersfield</li>
   <li>📧 You can drop me an email to ajcoding796@gmail.com</li>
-  <li>🖥 Check out my Portfolio Website here! a href="https://portfoliosite-zeta.vercel.app/"</li>
+  <li><a href="https://portfoliosite-zeta.vercel.app/">🖥 Check out my Portfolio Website here!</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
